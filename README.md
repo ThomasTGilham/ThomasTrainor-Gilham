@@ -1,1 +1,1 @@
-# ThomasTrainor-Gilham
+# Thomas Trainor-Gilham
