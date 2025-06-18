@@ -1,6 +1,6 @@
 # Thomas Trainor-Gilham
 
-## 🙋🏻‍♂️ About Me
+## About Me
 
 Hi, I’m Tom — a data analyst with a background in economics and a passion for solving real-world problems using data. I combine statistical learning, econometrics, and machine learning to generate actionable insights, optimise marketing spend, and inform strategy. I’m especially interested in the intersection of analytics, business impact, and emerging tech.
 
